@@ -1,3 +1,6 @@
+详细信息请访问博文: http://chen-xin.tk/blog/index.php/archives/44/
+
+
 ## 简介
 
 MEPsearcher基于string计算方法，用于搜索二维全局离散势能面上的能量最小路径Mminimun Energy Path(MEP),通常MEP可以完整揭示反应机理。过渡态、活化能等信息可以从MEP中获取。能量最低路径的搜索可以利用于蛋白质折叠、化学反应、相变等过程的机理研究。
